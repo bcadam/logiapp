@@ -1,0 +1,38 @@
+2014-07-23 19:38:32.067 logiapp[42630:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:38:32.074 logiapp[42630:70b] Unlimited access to network resources
+2014-07-23 19:38:38.194 logiapp[42630:70b] [CDVTimer][keyboard] 0.092030ms
+2014-07-23 19:38:38.194 logiapp[42630:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:38:38.195 logiapp[42630:70b] [CDVTimer][statusbar] 0.582039ms
+2014-07-23 19:38:38.195 logiapp[42630:70b] [CDVTimer][TotalPluginStartup] 1.997948ms
+2014-07-23 19:38:41.212 logiapp[42797:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:38:41.218 logiapp[42797:70b] Unlimited access to network resources
+2014-07-23 19:38:41.232 logiapp[42797:70b] [CDVTimer][keyboard] 0.056028ms
+2014-07-23 19:38:41.232 logiapp[42797:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:38:41.232 logiapp[42797:70b] [CDVTimer][statusbar] 0.317037ms
+2014-07-23 19:38:41.233 logiapp[42797:70b] [CDVTimer][TotalPluginStartup] 1.119018ms
+2014-07-23 19:38:41.264 logiapp[42797:70b] Resetting plugins due to page load.
+2014-07-23 19:38:43.640 logiapp[42797:70b] Finished load of: file:///Users/adam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23B34EDE-40A8-4F01-A39E-365742993708/logiapp.app/www/index.html#/app/playlists
+2014-07-23 19:39:42.111 logiapp[42985:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:39:42.117 logiapp[42985:70b] Unlimited access to network resources
+2014-07-23 19:39:42.131 logiapp[42985:70b] [CDVTimer][keyboard] 0.059962ms
+2014-07-23 19:39:42.132 logiapp[42985:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:39:42.132 logiapp[42985:70b] [CDVTimer][statusbar] 0.413001ms
+2014-07-23 19:39:42.132 logiapp[42985:70b] [CDVTimer][TotalPluginStartup] 1.545012ms
+2014-07-23 19:39:42.163 logiapp[42985:70b] Resetting plugins due to page load.
+2014-07-23 19:39:42.265 logiapp[42985:70b] Finished load of: file:///Users/adam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23B34EDE-40A8-4F01-A39E-365742993708/logiapp.app/www/index.html#/app/playlists
+2014-07-23 19:40:03.355 logiapp[43190:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:40:03.363 logiapp[43190:70b] Unlimited access to network resources
+2014-07-23 19:40:03.377 logiapp[43190:70b] [CDVTimer][keyboard] 0.056982ms
+2014-07-23 19:40:03.377 logiapp[43190:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:40:03.377 logiapp[43190:70b] [CDVTimer][statusbar] 0.331998ms
+2014-07-23 19:40:03.378 logiapp[43190:70b] [CDVTimer][TotalPluginStartup] 1.148999ms
+2014-07-23 19:40:03.464 logiapp[43190:70b] Resetting plugins due to page load.
+2014-07-23 19:40:03.572 logiapp[43190:70b] Finished load of: file:///Users/adam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8E4199A6-F17D-4FCA-9484-9900F2DB6DC3/logiapp.app/www/index.html#/app/playlists
+2014-07-23 19:42:31.530 logiapp[43561:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:42:31.536 logiapp[43561:70b] Unlimited access to network resources
+2014-07-23 19:42:31.551 logiapp[43561:70b] [CDVTimer][keyboard] 0.057042ms
+2014-07-23 19:42:31.551 logiapp[43561:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:42:31.552 logiapp[43561:70b] [CDVTimer][statusbar] 0.317037ms
+2014-07-23 19:42:31.552 logiapp[43561:70b] [CDVTimer][TotalPluginStartup] 1.159012ms
+2014-07-23 19:42:31.582 logiapp[43561:70b] Resetting plugins due to page load.
+2014-07-23 19:42:31.682 logiapp[43561:70b] Finished load of: file:///Users/adam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8E4199A6-F17D-4FCA-9484-9900F2DB6DC3/logiapp.app/www/index.html#/app/playlists
